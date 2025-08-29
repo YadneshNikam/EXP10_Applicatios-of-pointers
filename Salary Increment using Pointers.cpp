@@ -1,4 +1,5 @@
-//yashrastogi exp-11 
+//Yadnesh Nikam
+//24070123134
 #include <iostream>
 using namespace std;
 int salary(double*sal){
@@ -35,7 +36,6 @@ int main() {
     return 0;
 }
 /*
-output:
 Enter Details for eligibilty of increment in salary
 Enter your current salary
 200000
@@ -49,4 +49,5 @@ What is the total number of projects you have worked on till now?
 3
 you are eligible for a salary increment.
 Your new salary will be:240000
+
 */
