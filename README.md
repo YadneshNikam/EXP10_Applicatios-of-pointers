@@ -17,7 +17,7 @@ To study and implement pointer operations in C++ using call by value and call by
 
 In C++, data can be passed to functions in two primary ways:
 
-### **1. Call by Value:
+### 1. Call by Value:
 
 * A copy of the actual parameter is passed to the function.
 * Changes made inside the function do not affect the original variable.
