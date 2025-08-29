@@ -1,5 +1,5 @@
-//yashrastogi exp-10
-// 24070123135 call by value
+//Yadnesh Nikam
+// 24070123134
 #include <iostream>
 using namespace std;
 void swap(int x,int y){
@@ -14,7 +14,8 @@ int main() {
     cout<<a<<endl<<b;
 }
 /*
-output:
+
 20
 50
+
 */
